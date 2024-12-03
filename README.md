@@ -36,7 +36,7 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 Developed by: Janani G
 RegisterNumber:24009971
 ```
-module d(D,clk,,Q,Qbar);
+module exp8(D,clk,,Q,Qbar);
 input D,clk;
 output reg Q;
 output reg Qbar;
